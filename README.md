@@ -1,4 +1,5 @@
 **Blinkit Sales Performance Analysis – Power BI Dashboard**
+
 This project aims to conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and optimization opportunities. The data-driven approach helps in understanding revenue trends, product performance, and customer preferences.
 
 **Objective:**
